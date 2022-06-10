@@ -11,12 +11,13 @@ I'm now completing a master's degree in cybersecurity, which has led me to learn
 # [Portfolio](https://www.siddharthpandya.tech/) || [Tryhackme](https://tryhackme.com/p/Pands)
 
 # Skills
-+ ABC
++ Python
 
 # Interests
 - ABC
 
 # FOOTER
-Hope you like my repo's and have a fun learning !!
+I hope you get something new from my tools and put to much better use.<br>
+Have fun!!
 
 <p align="right"> - Siddharth Pandya</p>
