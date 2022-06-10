@@ -10,8 +10,13 @@ I'm now completing a master's degree in cybersecurity, which has led me to learn
 
 # ![Portfolio](https://www.siddharthpandya.tech/) || ![Tryhackme](https://tryhackme.com/p/Pands)
 
+# Skills
++ ABC
 
-
+# Interests
+- ABC
 
 # FOOTER
-Work in Progress ...
+Hope you like my repo's and have a fun learning !!
+
+<p align="right"> - Siddharth Pandya</p>
