@@ -8,7 +8,7 @@
 
 I'm now completing a master's degree in cybersecurity, which has led me to learn that breaking into computers requires numerous manual procedures. As a result, while not everything can be automated, I decided to automate the fundamental startup process using the coding skills I now possess. But, the goal of creating Github repositories is to automate the manual activities of everyday living.
 
-# [Portfolio](https://www.siddharthpandya.tech/) || [Tryhackme](https://tryhackme.com/p/Pands)
+># [Portfolio](https://www.siddharthpandya.tech/)  | [Tryhackme](https://tryhackme.com/p/Pands)
 
 # Skills
 + Python
