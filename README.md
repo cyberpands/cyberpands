@@ -11,12 +11,19 @@ I'm now completing a master's degree in cybersecurity, which has led me to learn
 ># [Portfolio](https://www.siddharthpandya.tech/)  | [Tryhackme](https://tryhackme.com/p/Pands)
 
 # Skills
-+ Python
++ Python Programming
++ Penetration Testing
++ Ethical Hacking
++ Web Development
 
 # Interests
-- ABC
+- Animations
+- Gaming
+- Bug Bounty Hunting
+- Photography
+  
 
-# End Note
+# Happy Learning
 I hope you get something new from my tools and put to much better use.<br>
 Have fun!!
 
