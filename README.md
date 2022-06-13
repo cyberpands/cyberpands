@@ -4,19 +4,19 @@
 
 <p align="center">Coding + Ethical Hacking</p>
 
-# Hello Guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px">, I am cyberpands
+># Hello Guys <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35px">, I am cyberpands
 
 I'm now completing a master's degree in cybersecurity, which has led me to learn that breaking into computers requires numerous manual procedures. As a result, while not everything can be automated, I decided to automate the fundamental startup process using the coding skills I now possess. But, the goal of creating Github repositories is to automate the manual activities of everyday living.
 
 ># [Portfolio](https://www.siddharthpandya.tech/)  | [Tryhackme](https://tryhackme.com/p/Pands)
 
-# Skills
+># Skills
 + Python
 
-# Interests
+># Interests
 - ABC
 
-# FOOTER
+># FOOTER
 I hope you get something new from my tools and put to much better use.<br>
 Have fun!!
 
